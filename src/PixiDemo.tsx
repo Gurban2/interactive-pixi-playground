@@ -187,7 +187,7 @@ const PixiDemo: React.FC = () => {
     <Stage 
       width={800} 
       height={600} 
-      options={{ 
+      options={{
         backgroundColor: 0x000000,
         eventMode: 'static',
         antialias: true
